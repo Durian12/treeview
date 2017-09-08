@@ -11,7 +11,7 @@ Provides some options for customizing, an async-tree extension and an experiment
 
 ---
 
-#### [Demo](http://jquery.bassistance.de/treeview/demo/)
+#### [Demo](http://jquery.bassistance.de/treeview/demo/) 
 
 #### [Download](https://github.com/jzaefferer/jquery-treeview/zipball/1.4.2)
 
